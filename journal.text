@@ -1,0 +1,5 @@
+September 20th, 2025:
+    Learned strip(), lstrip(), and rstrip() to remove whitespace from strings.
+    Learned removeprefix() and removesuffix() to remove parts of strings from beginning and end respectively.
+    These methods do not change the value of the variables by themselves, they need to be assigned to the variable or a new variable.
+    
