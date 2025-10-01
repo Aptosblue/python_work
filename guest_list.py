@@ -53,4 +53,6 @@ print(f"{popped_guest.title()}, sorry but you're uninvited.")
 for guest in guest_list:
     print(f'{guest.title()}, congratulations you made the cut to be invited to my irrelevant dinner')
 
+print(f'We are inviting {len(guest_list)} guests to dinner.')
+
 
