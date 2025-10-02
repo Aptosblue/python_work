@@ -1,0 +1,2 @@
+even_numbers = list(range(2,11,2)) #The 3rd argument in a range() function is the interval, in this case it will print every 2 numbers in the selected range.
+print(even_numbers) #Output = [2, 4, 6, 8, 10]
